@@ -1,0 +1,31 @@
+.Box{
+    text-align: center;
+    height: 20px;
+    width: 60px;
+    border: 4px;
+    border-color:#7fff00;
+    border-style: solid;
+    background-color: burlywood;
+}
+#box:hover{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    height: 30px;
+    width: 70px;
+    border: 4px;
+    border-color:rgb(247, 133, 92);
+    border-style: solid;
+    background-color:rgb(62, 179, 230);
+}
+.Image{
+    border: 2px;
+    border-color: blue;
+    border-style: solid;
+}
+#Image:hover{
+    border: 10px;
+    border-color:aqua;
+    border-style: solid;
+    width: 400px;
+}
